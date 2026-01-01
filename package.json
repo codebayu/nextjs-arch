@@ -1,7 +1,6 @@
 {
-  "name": "nextjs-arch",
-  "private": true,
-  "version": "0.0.1",
+  "name": "@codebayu/nextjs-arch",
+  "version": "0.0.2",
   "type": "module",
   "exports": {
     ".": {
