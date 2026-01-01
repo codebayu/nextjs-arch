@@ -1,1 +1,2 @@
-export { LogService } from './auth/log';
+export { AuthService } from './auth';
+export { OrderService } from './order';
